@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Ashutosh, and I'm a current Student and an aspiring Software Engineer interested in all things Python, Java and Swift!
+My name is Ashutosh, and I'm a current Student and an aspiring Software Engineer interested in all things Python, Java and Swift! Now learning C at UNSW!
 
 - 🔭 I’m currently working on developing more side projects in my free time.
 - 🌱 I’m currently learning further skills of developing in [Swift UI](https://github.com/AshutoshRai15/Cinema-Pix/tree/main)
